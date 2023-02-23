@@ -1,4 +1,4 @@
-﻿public static class Smoothing
+﻿public static class Easing
 {
     static float smoothstep(float x) => x * x * (3 - 2 * x);
     static float smoothstepD(float x) => 6 * x * (1 - x); // Derivative
