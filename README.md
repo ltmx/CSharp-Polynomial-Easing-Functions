@@ -2,8 +2,7 @@
 C# cubic (smoothstep), Quintic (degree 5), Heptic (degree 7), Nonic (degree 9), Hendecic (degree 11)
 Easing Math Functions
 
-<img src="https://github.com/LTMX/Smoothing-Functions/blob/master/Polynomial%20Smoothing%20Functions.png" alt="Polynomial Smoothing Functions">
-<img src="Unity%20Polynomial%20Easing%20Functions.png" alt="C# Polynomial Easing Functions">
+<img src="Unity%20Polynomial%20Easing%20Functions.png" alt="C# Polynomial Easing Functions" >
 
 
 # Code
